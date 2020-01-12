@@ -1,0 +1,44 @@
+,Common Name,Scientific Name,Cause
+0,Bacterial canker (Bacteria),Pseudomonas syringae Xanthomonas campestris,
+1,Blast and bacterial fruit spot (Bacteria),Pseudomonas syringae,
+2,Crown gall (Bacteria),Agrobacterium tumefaciens,
+0,Sunblotch (Virus),,Avocado sunblotch viroid
+1,Trunk pitting (Virus),,Graft transmissible agent
+0,Anthracnose (Fungus),Colletotrichum gloeosporioides Glomerella cingulata [teleomorph],
+1,Armillaria root rot Shoestring root rot (Fungus),Armillaria mellea Rhizomorpha subcorticalis [anamorph],
+2,Black mildew (Fungus),Asteridiella perseae Irene perseae,
+3,Branch canker (Fungus),Botryosphaeria disrupta Botryosphaeria obtusa Physalospora obtusa Botryosphaeria quercuum Physalospora glandicola Botryosphaeria rhodina Physalospora rhodina Physalospora abdita Physalospora fusca,
+4,Butt rot (Fungus),Ganoderma zonatum Ganoderma sulcatum,
+5,Cercospora spot (blotch) (Fungus),Pseudocercospora purpurea,
+6,Clitocybe root rot (Fungus),Armillaria tabescens Clitocybe tabescens,
+7,Collar rot (Fungus),Sclerotinia sclerotiorum,
+8,Dematophora root rot (Fungus),Dematophora necatrix Rosellinia necatrix [teleomorph],
+9,Dieback (Fungus),Diplodia cacaoicola Phomopsis sp.,
+10,Fruit rot (includes stem end rot & fruit spots) (Fungus),Botryodiplodia spp. Botryosphaeria obtusa Botryosphaeria quercuum Botryosphaeria rhodina Botrytis cinerea Botrytis vulgaris Botryotinia fuckeliana [teleomorph] Colletotrichum gloeosporioides Cylindrocladium scoparium Calonectria kyotensis [teleomorph] Dothiorella aromatica Dothiorella gregaria Fusarium decemcellulare Albonectria rigidiuscula [teleomorph] Lasiodiplodia theobromae Diplodia natalensis Nectria pseudotrichia Tubercularia lateritia [anamorph] Pestalotia spp. Pestalotia versicolor Phomopsis perseae Rhizopus stolonifer Sclerotinia sclerotiorum Sclerotinia libertiana,
+11,Heart rot (Fungus),Oxyporus latemarginatus Poria latemarginata,
+12,Leaf spots (Fungus),Bipolaris sorokiniana Cochliobolus sativus [teleomorph] Pestalotia spp. Pestalotia adusta Phyllachora gratissima Phyllosticta micropuncta Phyllosticta perseae,
+13,Phomopsis spot (Fungus),Phomopsis spp.,
+14,Physalospora canker (Fungus),Physalospora perseae,
+15,Phytophthora crown rot (Fungus),Phytophthora cinnamomi Phytophthora citricola,
+16,Phytophthora trunk canker (Fungus),Phytophthora cinnamomi Phytophthora citricola Phytophthora heveae,
+17,Phytophthora root rot (Fungus),Phytophthora cinnamomi,
+18,Pink rot (Fungus),Trichothecium roseum Cephalothecium roseum,
+19,Powdery mildew (Fungus),Oidium spp.,
+20,Rhizoctonia seed and root rot (Fungus),Rhizoctonia solani Thanatephorus cucumeris [teleomorph],
+21,Root and bark rot (Fungus),Fusarium spp.,
+22,Root rot (Fungus),Pythium spp.,
+23,Rosellinia root rot (Fungus),Rosellinia bunodes,
+24,Rusty blight (Fungus),Colletotrichum gloeosporioides Colletotrichum nigrum,
+25,Scab (fruit & leaf) (Fungus),Sphaceloma perseae,
+26,Seedling blight (Fungus),Phytophthora palmivora Sclerotium rolfsii Athelia rolfsii [teleomorph],
+27,Smudgy spot (Fungus),Helminthosporium spp.,
+28,Sooty blotch (Fungus),Akaropeltopsis sp.,
+29,Tar spot (Fungus),Phyllachora gratissima,
+30,Verticillium wilt (Fungus),Verticillium dahliae,
+31,Wood rots (Fungus),Fomitella supina Polyporus supinus Laetiporus sulphureus Polyporus sulphureus Sporotrichum versisporum [anamorph] Rigidoporus ulmarius Fomes geotropus Trametes hirsuta Polyporus hirsutus,
+0,Algal spot (Misc.),,Cephaleuros virescens Kunze
+1,Blackstreak (Misc.),,Unknown cause
+2,Dieback (Misc.),,Copper deficiency
+3,Edema (Misc.),,Physiological
+4,Littleleaf rosette (Misc.),,Zinc deficiency
+5,Tipburn (Misc.),,Excess mineral salts
